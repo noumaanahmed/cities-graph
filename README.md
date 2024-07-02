@@ -46,9 +46,9 @@ Run the ParseFile.java file. It parses the "indian-cities-dataset 2.csv" (given 
 
 Examples of the project running :
 
-![Alt text](https://imgur.com/ds29BgI)
+![Alt text](images/initial.png)
 
-![Alt text](https://imgur.com/e1t85gV)
+![Alt text](images/output.png)
 
-![Alt text](https://imgur.com/w9xUgzr)
+![Alt text](images/graph.png)
 
